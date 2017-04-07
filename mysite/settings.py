@@ -25,7 +25,7 @@ SECRET_KEY = 'k@qeoc)ci!v+%aj8pyyra=$7&bez3^+pu02p=tmoh2&k192!^1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["kinalimeric.pythonanywhere.com"]
 
 
 # Application definition
